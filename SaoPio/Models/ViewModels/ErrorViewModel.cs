@@ -1,6 +1,6 @@
 using System;
 
-namespace SaoPio.Models
+namespace SaoPio.Models.ViewModels
 {
     public class ErrorViewModel
     {
